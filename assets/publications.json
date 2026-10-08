@@ -5,7 +5,11 @@
     "title": "Omics insights into the effects of highbush blueberry and cranberry crop agroecosystems on honey bee health and physiology",
     "journal": "Proteomics",
     "doi": "10.1002/pmic.70033",
-    "contribution": "Coauthor"
+    "contribution": "Coauthor",
+    "topic": "Comparative & environmental genomics",
+    "summary": "Coauthored an omics investigation of honeybee health and physiology across crop agroecosystems, extending the portfolio into environmental and organismal context.",
+    "citations": 6,
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2023,
@@ -13,7 +17,12 @@
     "title": "Single-cell dissection of aggression in honeybee colonies",
     "journal": "Nature Ecology & Evolution",
     "doi": "10.1038/s41559-023-02090-0",
-    "contribution": "Methodology contributor"
+    "contribution": "Methodology contributor",
+    "topic": "Regulation & behavior",
+    "summary": "Contributed methodology to a single-cell study linking colony aggression with context-dependent brain regulatory networks.",
+    "citations": 44,
+    "case": "research/single-cell-neurogenomics.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2020,
@@ -21,7 +30,11 @@
     "title": "Sex-specific plasticity across generations I: Maternal and paternal effects on sons and daughters",
     "journal": "Journal of Animal Ecology",
     "doi": "10.1111/1365-2656.13364",
-    "contribution": "Coauthor"
+    "contribution": "Coauthor",
+    "topic": "Comparative & environmental genomics",
+    "summary": "Coauthored research examining how maternal and paternal effects differ between sons and daughters, bringing sex and generation into the interpretation of biological plasticity.",
+    "citations": 69,
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2020,
@@ -29,7 +42,12 @@
     "title": "Behavior-related gene regulatory networks: A new level of organization in the brain",
     "journal": "PNAS",
     "doi": "10.1073/pnas.1921625117",
-    "contribution": "Perspective · Coauthor"
+    "contribution": "Perspective · Coauthor",
+    "topic": "Regulation & behavior",
+    "summary": "Coauthored a perspective positioning gene-regulatory networks between individual genes and higher-level brain organization.",
+    "citations": 118,
+    "case": "research/neurogenomics-medicine.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2020,
@@ -37,7 +55,12 @@
     "title": "Meta-analysis of honey bee neurogenomic response links Deformed wing virus type A to precocious behavioral maturation",
     "journal": "Scientific Reports",
     "doi": "10.1038/s41598-020-59808-4",
-    "contribution": "Coauthor"
+    "contribution": "Coauthor",
+    "topic": "Regulation & behavior",
+    "summary": "Performed regulatory-network analysis in a collaborative study linking covert viral infection to maturation-associated brain programs and glial context.",
+    "citations": 90,
+    "case": "research/neurogenomics-medicine.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2019,
@@ -45,7 +68,12 @@
     "title": "Neurogenomic insights into paternal care and its relation to territorial aggression",
     "journal": "Nature Communications",
     "doi": "10.1038/s41467-019-12212-7",
-    "contribution": "First author"
+    "contribution": "First author",
+    "topic": "Regulation & behavior",
+    "summary": "First-author study connecting stage-resolved paternal-care transcriptomics, cross-species comparison, and contrasting regulatory responses to care and aggression.",
+    "citations": 61,
+    "case": "research/paternal-care.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2019,
@@ -53,7 +81,12 @@
     "title": "Cross-species systems analysis of evolutionary toolkits of neurogenomic response to social challenge",
     "journal": "Genes, Brain and Behavior",
     "doi": "10.1111/gbb.12502",
-    "contribution": "Coauthor"
+    "contribution": "Coauthor",
+    "topic": "Comparative & environmental genomics",
+    "summary": "Contributed to a cross-species systems study identifying shared genes, modules, and regulatory organization in responses to social challenge.",
+    "citations": 43,
+    "case": "research/neurogenomics-medicine.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2018,
@@ -61,7 +94,11 @@
     "title": "Personal and transgenerational cues are nonadditive at the phenotypic and molecular level",
     "journal": "Nature Ecology & Evolution",
     "doi": "10.1038/s41559-018-0605-4",
-    "contribution": "Coauthor"
+    "contribution": "Coauthor",
+    "topic": "Comparative & environmental genomics",
+    "summary": "Coauthored a study showing that personal and transgenerational cues need not combine additively at phenotypic and molecular levels.",
+    "citations": 56,
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2017,
@@ -69,7 +106,12 @@
     "title": "Temporal dynamics of neurogenomic plasticity in response to social interactions in male threespined sticklebacks",
     "journal": "PLOS Genetics",
     "doi": "10.1371/journal.pgen.1006840",
-    "contribution": "First author"
+    "contribution": "First author",
+    "topic": "Regulation & behavior",
+    "summary": "First-author integration of temporal brain RNA-seq, H3K27ac evidence, and inferred networks revealing successive molecular responses to a brief social challenge.",
+    "citations": 75,
+    "case": "research/temporal-neurogenomics.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2016,
@@ -77,7 +119,11 @@
     "title": "Natural variation in brain gene expression profiles of aggressive and nonaggressive individual sticklebacks",
     "journal": "Behaviour",
     "doi": "10.1163/1568539X-00003393",
-    "contribution": "Coauthor"
+    "contribution": "Coauthor",
+    "topic": "Regulation & behavior",
+    "summary": "Coauthored an investigation of naturally varying aggression and brain expression, complementing experimental studies of behavioral responses.",
+    "citations": 34,
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2016,
@@ -85,7 +131,11 @@
     "title": "Stickleback embryos use ATP-binding cassette transporters as a buffer against exposure to maternally derived cortisol",
     "journal": "Proceedings of the Royal Society B",
     "doi": "10.1098/rspb.2015.2838",
-    "contribution": "Coauthor"
+    "contribution": "Coauthor",
+    "topic": "Comparative & environmental genomics",
+    "summary": "Coauthored research on embryonic transporter-mediated buffering of maternal cortisol exposure, examining how offspring modify an inherited physiological environment.",
+    "citations": 36,
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2014,
@@ -93,7 +143,12 @@
     "title": "Neuromolecular responses to social challenge: Common mechanisms across mouse, stickleback fish, and honey bee",
     "journal": "PNAS",
     "doi": "10.1073/pnas.1420369111",
-    "contribution": "Coauthor · Data analysis"
+    "contribution": "Coauthor · Data analysis",
+    "topic": "Comparative & environmental genomics",
+    "summary": "Contributed data analysis to a mouse, fish, and honeybee comparison identifying shared molecular responses to territorial challenge.",
+    "citations": 192,
+    "case": "research/neurogenomics-medicine.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2013,
@@ -101,7 +156,12 @@
     "title": "Origin and evolution of protein fold designs inferred from phylogenomic analysis of CATH domain structures in proteomes",
     "journal": "PLOS Computational Biology",
     "doi": "10.1371/journal.pcbi.1003009",
-    "contribution": "First author"
+    "contribution": "First author",
+    "topic": "Computational methods",
+    "summary": "First-author structural phylogenomics across 492 genomes, examining protein-domain diversification through comparative data representation and evolutionary inference.",
+    "citations": 61,
+    "case": "research/protein-fold-evolution.html",
+    "citation_snapshot_date": "2026-10-08"
   },
   {
     "year": 2010,
@@ -109,6 +169,11 @@
     "title": "POLYAR, a new computer program for prediction of poly(A) sites in human sequences",
     "journal": "BMC Genomics",
     "doi": "10.1186/1471-2164-11-646",
-    "contribution": "Equal contribution"
+    "contribution": "Equal contribution",
+    "topic": "Computational methods",
+    "summary": "Shared development of predictive features, the search algorithm, and initial software for POLYAR, a human polyadenylation-site predictor.",
+    "citations": 64,
+    "case": "research/polyar.html",
+    "citation_snapshot_date": "2026-10-08"
   }
 ]

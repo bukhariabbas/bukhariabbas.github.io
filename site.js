@@ -8,7 +8,7 @@ if (menu && nav) {
   menu.addEventListener('click', () => { const open = menu.getAttribute('aria-expanded') !== 'true'; menu.setAttribute('aria-expanded',String(open)); nav.classList.toggle('is-open',open); });
   document.addEventListener('keydown', event => { if(event.key==='Escape' && menu.getAttribute('aria-expanded')==='true'){closeMenu();menu.focus();} });
   nav.addEventListener('click', event => { if(event.target.closest('a')) closeMenu(); });
-  window.matchMedia('(min-width: 781px)').addEventListener('change',closeMenu);
+  window.matchMedia('(min-width: 1101px)').addEventListener('change',closeMenu);
 }
 const filters = document.querySelectorAll('[data-filter]');
 const projects = document.querySelectorAll('[data-project]');
@@ -28,6 +28,7 @@ if(search){
     entries.forEach(item=>{ const show=item.textContent.toLocaleLowerCase().includes(query);item.hidden=!show;if(show)count++; });
     document.querySelector('#publication-count').textContent=`${count} of ${entries.length} publications shown`;
     document.querySelector('#publication-empty').hidden=count!==0;
+    document.querySelectorAll('[data-publication-group]').forEach(group=>{group.hidden=![...group.querySelectorAll('[data-publication]')].some(entry=>!entry.hidden);});
   };
   search.addEventListener('input',update);
   document.querySelector('#clear-search').addEventListener('click',()=>{search.value='';update();search.focus();});
