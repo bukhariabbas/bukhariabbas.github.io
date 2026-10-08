@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="target-title target-desc">
+  <title id="target-title">Integrating regulatory and dependency evidence for target hypotheses</title>
+  <desc id="target-desc">Conceptual workflow from expression and consensus ARACNe and GENIE3 networks, through lineage and transcription-factor context, to DepMap and compound evidence, ending in experimentally testable hypotheses rather than validated targets.</desc>
+  <defs><marker id="target-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1L6 4L1 7" fill="none" stroke="#087f78" stroke-width="1.5"/></marker></defs>
+  <rect width="1200" height="560" rx="22" fill="#f6f7f2"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="40" y="46" font-size="13" letter-spacing="2" fill="#087f78" font-weight="700">REGULATORY NETWORKS · THERAPEUTIC HYPOTHESIS GENERATION</text>
+    <text x="40" y="91" font-size="30" font-weight="600" fill="#122c38">Which mechanisms deserve the next experiment?</text>
+    <g fill="#fff" stroke="#d5dfd9"><rect x="40" y="126" width="256" height="345" rx="15"/><rect x="328" y="126" width="256" height="345" rx="15"/><rect x="616" y="126" width="256" height="345" rx="15"/><rect x="904" y="126" width="256" height="345" rx="15"/></g>
+    <g font-size="13" font-weight="700" fill="#087f78"><text x="64" y="159">01 / INFER</text><text x="352" y="159">02 / CONTEXTUALIZE</text><text x="640" y="159">03 / INTEGRATE</text><text x="928" y="159">04 / PRIORITIZE</text></g>
+    <g fill="none" stroke="#087f78" stroke-width="1.8" marker-end="url(#target-arrow)"><path d="M301 298H320"/><path d="M589 298H608"/><path d="M877 298H896"/></g>
+    <g transform="translate(89 188)" fill="none" stroke="#087f78" stroke-width="2">
+      <path d="M2 26L51 3L75 58L22 93L2 26L75 58M51 3L116 12L157 58L124 98L75 58L116 12M75 58L157 58"/>
+      <g fill="#dff3ed"><circle cx="2" cy="26" r="8"/><circle cx="51" cy="3" r="8"/><circle cx="22" cy="93" r="8"/><circle cx="116" cy="12" r="8"/><circle cx="157" cy="58" r="8"/><circle cx="124" cy="98" r="8"/></g><circle cx="75" cy="58" r="14" fill="#d26e4a" stroke="#d26e4a"/>
+    </g>
+    <g transform="translate(369 191)" fill="none" stroke="#087f78" stroke-width="2">
+      <path d="M87 9V40M27 75V40H147V75M87 40V75"/><g fill="#dff3ed"><circle cx="27" cy="87" r="13"/><circle cx="87" cy="87" r="13"/><circle cx="147" cy="87" r="13"/></g><circle cx="87" cy="9" r="13" fill="#f7e9df" stroke="#d26e4a"/>
+    </g>
+    <g transform="translate(645 196)">
+      <rect x="0" y="0" width="189" height="40" rx="7" fill="#dff3ed"/><rect x="0" y="53" width="189" height="40" rx="7" fill="#f7e9df"/>
+      <text x="94" y="26" fill="#087f78" text-anchor="middle" font-size="16" font-weight="600">Dependency evidence</text><text x="94" y="79" fill="#974b30" text-anchor="middle" font-size="16" font-weight="600">Compound evidence</text>
+    </g>
+    <g transform="translate(969 190)" fill="none" stroke="#087f78" stroke-width="2">
+      <path d="M33 9H85M44 9V48L14 93Q9 102 22 102H96Q110 102 104 93L74 48V9" fill="#dff3ed"/><path d="M31 72H88"/><circle cx="49" cy="84" r="4" fill="#087f78" stroke="none"/><circle cx="72" cy="92" r="3" fill="#087f78" stroke="none"/><path d="M115 12L136 31L115 50" stroke="#d26e4a"/><path d="M136 31H104" stroke="#d26e4a"/>
+    </g>
+    <g fill="#122c38" font-size="22" font-weight="600"><text x="64" y="332">Consensus networks</text><text x="352" y="332">Lineage and TFs</text><text x="640" y="332">Orthogonal evidence</text><text x="928" y="332">Testable hypotheses</text></g>
+    <g fill="#4c6265" font-size="17"><text x="64" y="370">Expression + ARACNe</text><text x="64" y="396">and GENIE3 inference.</text><text x="352" y="370">Interpret candidate circuits</text><text x="352" y="396">in their biological context.</text><text x="640" y="370">Compare with DepMap</text><text x="640" y="396">and pharmacologic resources.</text><text x="928" y="370">Rank experiments with</text><text x="928" y="396">uncertainty made explicit.</text></g>
+    <text x="40" y="514" fill="#4c6265" font-size="15">Conceptual evidence chain. Computational prioritization is not target validation, demonstrated drug efficacy, or a clinical recommendation.</text>
+  </g>
+</svg>

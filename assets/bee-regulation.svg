@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="bee-title bee-desc">
+  <title id="bee-title">Connecting genomic regulation across biological scales</title>
+  <desc id="bee-desc">Conceptual multiscale framework for neurogenomic research: genotype, cell-type and regulatory-network context, brain regions, and colony-level phenotype. Connections represent questions for integrative analysis, not established causal effects or reproduced published results.</desc>
+  <defs><marker id="bee-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1L6 4L1 7" fill="none" stroke="#087f78" stroke-width="1.5"/></marker></defs>
+  <rect width="1200" height="560" rx="22" fill="#f6f7f2"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="40" y="46" font-size="13" letter-spacing="2" fill="#087f78" font-weight="700">COMPARATIVE NEUROGENOMICS · A MULTISCALE PERSPECTIVE</text>
+    <text x="40" y="91" font-size="30" font-weight="600" fill="#122c38">How does gene regulation connect variation to phenotype?</text>
+    <g fill="#fff" stroke="#d5dfd9"><rect x="40" y="126" width="256" height="345" rx="15"/><rect x="328" y="126" width="256" height="345" rx="15"/><rect x="616" y="126" width="256" height="345" rx="15"/><rect x="904" y="126" width="256" height="345" rx="15"/></g>
+    <g font-size="13" font-weight="700" fill="#087f78"><text x="64" y="159">01 / VARIATION</text><text x="352" y="159">02 / REGULATION</text><text x="640" y="159">03 / ORGANIZATION</text><text x="928" y="159">04 / PHENOTYPE</text></g>
+    <g fill="none" stroke="#087f78" stroke-width="1.8" marker-end="url(#bee-arrow)"><path d="M301 298H320"/><path d="M589 298H608"/><path d="M877 298H896"/></g>
+    <g transform="translate(109 181)" fill="none" stroke-width="3">
+      <path d="M21 0C116 42 0 77 94 120" stroke="#087f78"/><path d="M94 0C0 42 116 77 21 120" stroke="#d26e4a"/>
+      <path d="M34 8H81M52 25H63M49 48H66M39 61H77M47 76H68M52 95H62M35 111H81" stroke="#96b4ad" stroke-width="2"/>
+    </g>
+    <g transform="translate(369 190)">
+      <path d="M8 40Q-8 4 38 1Q85-6 101 30Q133 48 108 85Q86 117 45 97Q8 91 8 40Z" fill="#dff3ed" stroke="#087f78" stroke-width="1.5"/>
+      <g stroke="#087f78" stroke-width="1.8" fill="none"><path d="M42 27L82 52L46 78L42 27M82 52L149 19M82 52L158 78"/></g>
+      <g fill="#087f78"><circle cx="42" cy="27" r="7"/><circle cx="46" cy="78" r="7"/><circle cx="149" cy="19" r="7"/><circle cx="158" cy="78" r="7"/></g><circle cx="82" cy="52" r="11" fill="#d26e4a"/>
+    </g>
+    <g transform="translate(645 194)" stroke-width="2">
+      <path d="M94 21C58-16 7 0 8 43C-7 72 23 103 57 86L78 103L94 83L110 103L132 86C166 103 196 72 180 43C182 0 131-16 94 21Z" fill="#dff3ed" stroke="#087f78"/>
+      <path d="M94 21V83M39 29Q68 9 77 43Q70 62 45 48M112 43Q122 9 150 29Q158 48 143 58M43 73Q66 62 77 80M113 80Q124 62 147 73" stroke="#7fafa1" fill="none"/>
+      <circle cx="51" cy="40" r="9" fill="#d26e4a" stroke="none"/><circle cx="137" cy="40" r="9" fill="#d26e4a" stroke="none"/>
+    </g>
+    <g transform="translate(951 180)" fill="none" stroke-width="1.8">
+      <path d="M48 14L76 30V62L48 78L20 62V30ZM104 14L132 30V62L104 78L76 62V30ZM76 62L104 78V110L76 126L48 110V78Z" fill="#f7e9df" stroke="#d26e4a"/>
+      <g fill="#087f78" stroke="#087f78"><ellipse cx="48" cy="46" rx="10" ry="6"/><ellipse cx="104" cy="46" rx="10" ry="6"/><ellipse cx="76" cy="94" rx="10" ry="6"/></g>
+      <g stroke="#f6f7f2"><path d="M45 41V51M51 41V51M101 41V51M107 41V51M73 89V99M79 89V99"/></g>
+    </g>
+    <g fill="#122c38" font-size="22" font-weight="600"><text x="64" y="332">Genomic variation</text><text x="352" y="332">Cellular networks</text><text x="640" y="332">Brain-region context</text><text x="928" y="332">Collective phenotype</text></g>
+    <g fill="#4c6265" font-size="17"><text x="64" y="370">Genotype and</text><text x="64" y="396">transcriptional differences.</text><text x="352" y="370">Cell-type identity and</text><text x="352" y="396">regulatory architecture.</text><text x="640" y="370">Relate molecular programs</text><text x="640" y="396">to anatomical organization.</text><text x="928" y="370">Link biological scales to</text><text x="928" y="396">colony-level variation.</text></g>
+    <text x="40" y="514" fill="#4c6265" font-size="15">Conceptual cross-scale framework, not a reproduction of published data. Connections indicate analytical questions, not proven causality.</text>
+  </g>
+</svg>

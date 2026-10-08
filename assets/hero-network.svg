@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">A systems view of disease</title>
+  <desc id="hero-desc">Conceptual scientific illustration connecting cellular diversity, regulatory programs, and cohort evidence to testable biological hypotheses. The network and cells are illustrative, not observed data.</desc>
+  <defs>
+    <radialGradient id="hero-glow"><stop stop-color="#087f78" stop-opacity=".26"/><stop offset="1" stop-color="#122c38" stop-opacity="0"/></radialGradient>
+    <linearGradient id="hero-line" x1="0" x2="1"><stop stop-color="#7ecebb"/><stop offset="1" stop-color="#d26e4a"/></linearGradient>
+    <pattern id="hero-grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b4d0ce" opacity=".12"/></pattern>
+  </defs>
+  <rect width="900" height="720" rx="30" fill="#122c38"/>
+  <rect width="900" height="720" rx="30" fill="url(#hero-grid)"/>
+  <circle cx="500" cy="352" r="340" fill="url(#hero-glow)"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="48" y="58" fill="#a2c8c4" font-size="13" letter-spacing="3">SYSTEMS BIOLOGY · CONCEPTUAL VIEW</text>
+    <text x="48" y="108" fill="#f6f7f2" font-size="35" font-weight="600">From molecular variation</text>
+    <text x="48" y="152" fill="#f6f7f2" font-size="35" font-weight="600">to biological questions.</text>
+    <g fill="none" stroke="#89beb6" stroke-opacity=".18">
+      <circle cx="480" cy="383" r="146"/>
+      <circle cx="480" cy="383" r="211" stroke-dasharray="3 8"/>
+      <ellipse cx="480" cy="383" rx="285" ry="182" transform="rotate(-23 480 383)"/>
+    </g>
+    <g stroke="url(#hero-line)" stroke-width="1.8" opacity=".66" fill="none">
+      <path d="M239 337Q303 259 394 266L502 310L613 273L680 361L610 433L652 514L534 521L472 450L394 477L331 400L239 337"/>
+      <path d="M394 266L389 349L502 310L472 450L610 433L502 310M389 349L331 400L394 477M389 349L472 450L394 266M534 521L610 433M613 273L610 433M680 361L502 310M331 400L472 450M394 477L534 521"/>
+      <path d="M239 337L173 267M394 266L361 218M613 273L686 228M680 361L754 383M652 514L697 564M394 477L315 547M331 400L243 470" stroke-dasharray="5 6" opacity=".6"/>
+    </g>
+    <g fill="#122c38" stroke="#7ecebb" stroke-width="2.5">
+      <circle cx="239" cy="337" r="13"/><circle cx="394" cy="266" r="16"/>
+      <circle cx="389" cy="349" r="19"/><circle cx="331" cy="400" r="12"/>
+      <circle cx="394" cy="477" r="15"/><circle cx="613" cy="273" r="11"/>
+      <circle cx="680" cy="361" r="14"/><circle cx="652" cy="514" r="11"/>
+      <circle cx="534" cy="521" r="14"/>
+    </g>
+    <g fill="#dff3ed"><circle cx="239" cy="337" r="3"/><circle cx="394" cy="266" r="4"/><circle cx="389" cy="349" r="5"/><circle cx="331" cy="400" r="3"/><circle cx="394" cy="477" r="4"/><circle cx="613" cy="273" r="3"/><circle cx="680" cy="361" r="4"/><circle cx="652" cy="514" r="3"/><circle cx="534" cy="521" r="4"/></g>
+    <g fill="#d26e4a" stroke="#122c38" stroke-width="6"><circle cx="502" cy="310" r="22"/><circle cx="472" cy="450" r="19"/><circle cx="610" cy="433" r="15"/></g>
+    <g fill="#a2c8c4"><circle cx="173" cy="267" r="5"/><circle cx="361" cy="218" r="5"/><circle cx="686" cy="228" r="5"/><circle cx="754" cy="383" r="5"/><circle cx="697" cy="564" r="5"/><circle cx="315" cy="547" r="5"/><circle cx="243" cy="470" r="5"/></g>
+    <g transform="translate(60 219)">
+      <rect width="214" height="69" rx="10" fill="#193e49" stroke="#41626a"/>
+      <circle cx="30" cy="33" r="15" fill="#dff3ed" fill-opacity=".12" stroke="#7ecebb"/>
+      <path d="M21 31Q25 23 34 26Q42 31 34 40Q25 43 21 31Z" fill="#7ecebb" fill-opacity=".5"/>
+      <text x="56" y="29" fill="#f6f7f2" font-size="16" font-weight="600">Cellular diversity</text>
+      <text x="56" y="50" fill="#b2cfcc" font-size="12">States, context, variation</text>
+    </g>
+    <g transform="translate(590 174)">
+      <rect width="256" height="69" rx="10" fill="#193e49" stroke="#41626a"/>
+      <path d="M18 25L34 18L41 39L22 46ZM18 25L41 39" stroke="#d99377" fill="none" stroke-width="1.8"/>
+      <g fill="#d99377"><circle cx="18" cy="25" r="3"/><circle cx="34" cy="18" r="3"/><circle cx="41" cy="39" r="3"/><circle cx="22" cy="46" r="3"/></g>
+      <text x="58" y="29" fill="#f6f7f2" font-size="16" font-weight="600">Regulatory programs</text>
+      <text x="58" y="50" fill="#b2cfcc" font-size="12">Mechanisms and dependencies</text>
+    </g>
+    <g transform="translate(574 545)">
+      <rect width="263" height="69" rx="10" fill="#193e49" stroke="#41626a"/>
+      <g fill="none" stroke="#7ecebb" stroke-width="1.5"><rect x="20" y="21" width="24" height="30" rx="3"/><path d="M25 29H39M25 35H39M25 41H35"/></g>
+      <text x="60" y="29" fill="#f6f7f2" font-size="16" font-weight="600">Cohort evidence</text>
+      <text x="60" y="50" fill="#b2cfcc" font-size="12">Robustness and patient relevance</text>
+    </g>
+    <path d="M48 646H852" stroke="#3a5962"/>
+    <circle cx="55" cy="680" r="4" fill="#7ecebb"/>
+    <text x="70" y="685" fill="#c7ddda" font-size="13">Integrate evidence. Test alternatives. Prioritize the next experiment.</text>
+    <text x="48" y="593" fill="#87aaa8" font-size="12">Illustration only · not a dataset</text>
+  </g>
+</svg>
